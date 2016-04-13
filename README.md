@@ -7,6 +7,8 @@ Read in a list of internet memes from a json file on the classpath (you choose t
 # Cucumber BDD methodology is used to test the approach
 feature file is in src/main/resources/features/memes-sorter-and-scorer.feature
 
+# A sample test for testing the restApi used is also committed ( MemesRestApiTest.java ).
+
 # When the feature file is run, the corresponding MemesSortedAndScorerTest is run and validated.
 
 # Steps to Run:
